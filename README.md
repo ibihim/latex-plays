@@ -17,13 +17,22 @@ The `\begin` and `\end` command pair is called an environment.
 ## Font commands
 
 `\textrm{...}` - roman family
+
 `\textsf{...}` - sans-serif family
+
 `\texttt{...}` - typewriter family
+
 `\textbf{...}` - bold-face
+
 `\textmd{...}` - medium
+
 `\textit{...}` - italic shape
+
 `\textsl{...}` - slanted shape
+
 `\textsc{...}` - Small Caps Shape
+
 `\textup{...}` - upright shape
+
 `\textnormal{...}` - default font
 
